@@ -21,9 +21,10 @@ The game includes an interactive 8x8 board, move validation, and king-safety che
   - Generates legal moves for Black
   - Prioritizes capture moves when available
   - Otherwise plays a random legal move
- 
+
+ <img width="518" height="557" alt="Capture d&#39;écran 2026-06-20 225337" src="https://github.com/user-attachments/assets/aef22563-7358-483b-838f-6a15adbb689b" />
 <img width="517" height="553" alt="Capture d&#39;écran 2026-06-20 225302" src="https://github.com/user-attachments/assets/3f113a4c-dfbd-44e2-a2d4-5fa59e0e21d7" />
-<img width="518" height="557" alt="Capture d&#39;écran 2026-06-20 225337" src="https://github.com/user-attachments/assets/aef22563-7358-483b-838f-6a15adbb689b" />
+
 
 ## Tech Stack
 - C++
